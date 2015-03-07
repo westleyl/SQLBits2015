@@ -7,6 +7,7 @@
 ## EventStore-a streaming database for CQRS and event sourcing ##
 
 This repository provides the presentation, and source code for the samples and tutorial for the presentation given in London on 7th March 2015 at SQLBits XIV.
+
 ----------
 
 
